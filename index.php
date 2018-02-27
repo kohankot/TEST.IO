@@ -7,4 +7,4 @@
  */
 
 echo "Первое на PHP";
-var_dump([ 1, 2, 3 ]);
+var_dump(array(1, 2, 3));
